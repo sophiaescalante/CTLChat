@@ -1226,5 +1226,6 @@
 * **Equipment/Materials:** Hula-hoop or rope
 * **Number of People:** N/A
 * **Suited for Professional Program:** No
+* **Complexity:** 3
 
 ---
